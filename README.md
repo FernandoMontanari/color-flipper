@@ -13,7 +13,7 @@ Neste tutorial de John Smilga, você aprenderá a criar um trocador de cores par
 - Math.random()
 - array.length
 
-![image](https://user-images.githubusercontent.com/25597840/218873999-a2d4788b-cef7-4b57-9e22-4b7810e756f9.png)
+<a href="https://fernandomontanari.github.io/color-flipper/">![image](https://user-images.githubusercontent.com/25597840/218873999-a2d4788b-cef7-4b57-9e22-4b7810e756f9.png)</a>
 
 Projetos - https://www.vanillajavascriptprojects.com/
 
